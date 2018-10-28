@@ -23,7 +23,7 @@ class RecognizeImage():
         str_url = "https://vision.googleapis.com/v1/images:annotate?key="
 
         # 事前に取得したAPIキー
-        str_api_key = "AIzaSyCwhQXMJJV0NLeITR54LiA5zh_JkGRNzQ4"
+        str_api_key = "your_api_ket"
 
         # Content-TypeをJSONに設定
         str_headers = {'Content-Type': 'application/json'}
