@@ -4,6 +4,9 @@
 **Spider Artificial Intelligence Vulnerability Scanner.**  
 
 ---
+### White paper
+ * [MBSD Technical Whitepaper](https://www.mbsd.jp/Whitepaper/WhitePaper_SAIVS_20170725.pdf)  
+
 ### Presentation
  * March 31th,2016: [Black Hat ASIA 2016 Arsenal](https://www.blackhat.com/asia-16/arsenal.html#saivs-spider-artificial-intelligence-vulnerability-scanner)
  * October 20th, 2016: [CODE BLUE 2016](https://codeblue.jp/2016/en/contents/speakers.html#speaker-takaesu)  
